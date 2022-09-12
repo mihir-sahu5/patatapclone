@@ -7,3 +7,5 @@ I have used the following libraries of JavaScript :-
 2. Paper JS : For animation and circular effects.
 
 3. Check it out https://mihir-sahu5.github.io/patatapclone/ here.
+
+4. While on the web-app press any key from a-z to interact with the app.
